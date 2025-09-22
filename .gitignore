@@ -10,3 +10,10 @@ __pycache__/
 *.pyd
 .DS_Store
 *.log
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+*.ipynb
+
+# Datasets (CSV files)
+*.csv
+
